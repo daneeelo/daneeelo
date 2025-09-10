@@ -2,17 +2,19 @@ Danilo here 👋 I'm a developer with a keen interest in exploring new technolog
 
 ## 🚀 About Me
 
-- **GitHub Activity**: I have been part of the GitHub community since April 2022. While my public activity is currently limited, I am constantly learning and working on new projects behind the scenes. A lot of my work on GitHub is private for work purposes.
-- **Coding Habits**: My GitHub stats reflect a preference for maintaining privacy. I focus on the quality and impact of the projects I do share.
+Website: https://souluos.pages.dev
+
+-   **GitHub Activity**: I have been part of the GitHub community since April 2022. While my public activity is currently limited, I am constantly learning and working on new projects behind the scenes. A lot of my work on GitHub is private for work purposes.
+-   **Coding Habits**: My GitHub stats reflect a preference for maintaining privacy. I focus on the quality and impact of the projects I do share.
 
 ## 🌟 Key Skills
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Next.js, Node.js, Express
+-   **Languages**: JavaScript, TypeScript, HTML, CSS
+-   **Frameworks**: React, Next.js, Node.js, Express
 
 ## 📫 Contact Me
 
-- **Email**: daneelo.code@proton.me
+-   **Email**: daneelo.services@gmail.com
 
 ## 🎉 Fun Fact
 
